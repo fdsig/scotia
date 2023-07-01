@@ -1,4 +1,4 @@
-selinium
+selenium
 beautifulsoup4
 numpy
 pandas
